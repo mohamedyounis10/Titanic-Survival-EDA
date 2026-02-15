@@ -14,12 +14,9 @@ This repository contains a comprehensive data analysis and a prediction engine f
 - [Overview](#overview-)
 - [Dataset](#dataset-)
 - [Notebook](#notebook-)
-  - [Steps](#steps-)
-  - [Insights](#insights-)
 - [Power BI Dashboard](#power-bi-dashboard-)
 - [Getting Started](#getting-started-)
   - [Requirements](#requirements-)
-  - [Run the Notebook](#run-the-notebook-)
 - [Author](#author-)
 - [Acknowledgments](#acknowledgments-)
 - [License](#license-)
@@ -130,4 +127,5 @@ To run the notebook, you’ll typically need:
 ## License 📄
 
 This project is open-source. Feel free to use it for educational purposes.
+
 
