@@ -93,6 +93,8 @@ What you can do with the dashboard:
 - 📌 Filter passengers by Class, Gender, and Survival status.
 - 💳 Analyze Fare distribution and survival correlation.
 - 🔎 Explore passenger details interactively.
+  
+<img width="1384" height="743" alt="Screenshot 2026-02-10 080254" src="https://github.com/user-attachments/assets/6a534488-f433-4f2a-b3f1-52ea22a46bac" />
 
 ---
 
@@ -128,3 +130,4 @@ To run the notebook, you’ll typically need:
 ## License 📄
 
 This project is open-source. Feel free to use it for educational purposes.
+
