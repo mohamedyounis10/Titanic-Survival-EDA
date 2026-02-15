@@ -120,12 +120,10 @@ To run the notebook, you’ll typically need:
 
 ## Acknowledgments 🙏
 
-- **Internship 🏢**: [Uneeq Interns](https://www.linkedin.com/company/uneeq-interns/)
+- **Internship 🏢**: [Elevvo pathways](https://www.linkedin.com/company/elevvopaths/)
 
 ---
 
 ## License 📄
 
 This project is open-source. Feel free to use it for educational purposes.
-
-
